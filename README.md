@@ -27,7 +27,6 @@ Now for all 5151 allocations, calculate Pr(PnL>k) (or EV), then find the best al
 
 
 <img width="2984" height="2357" alt="imc_main" src="https://github.com/user-attachments/assets/04035d12-6bcc-407f-889e-0b135f51e881" />
-<img width="1784" height="881" alt="imc_deterministic" src="https://github.com/user-attachments/assets/1b8d387f-f392-4a9f-bc86-a76a1624c9d9" />
 <img width="2232" height="740" alt="imc_pnl_dist" src="https://github.com/user-attachments/assets/70d32523-c499-47a7-9b19-631a527875a7" />
 
 
