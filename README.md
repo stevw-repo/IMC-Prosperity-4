@@ -6,7 +6,7 @@
 ***
 
 The "Invest & Expand" manual challenge requires participants to allocate a 50,000 XIRECs budget across Research, Scale, and Speed where:
-> ### Final PnL = Research(r) × Scale(s) × Speed_Multiplier(sp) – 50,000
+> ### Research(x) * Scale(y) * Hit_rate(rank(z)) - Budget = PnL
 
 As I somehow got -29,661 PnL in round 1, I set myself to get at least 160,000 in the manual challenge to safely qualify into phase 2. Therefore, rather than simply maximising EV, my general approach is first setting a (list of) target PnLs, and utilise Monte Carlo Simulation to find the allocation that gives the **highest confidence level** for a certain PnL "k" in an exhaustive search. The main challenge in this approach is the rank‑based Speed Multiplier: the highest speed investment among all participants gets 0.9, the lowest 0.1, and others linearly scaled between.
 
