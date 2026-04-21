@@ -1,7 +1,9 @@
 # IMC-Prosperity-4
 ***
 
+
 ### I made it to the finals (phase 2) as a solo participant. The most significant earning challenge for me is the round 2 manual challenge, earning +212,174 XIRECs and ranked 30th worldwide. Here's how I did it:
+<img width="937" height="622" alt="Screenshot 2026-04-21 at 1 40 12 PM" src="https://github.com/user-attachments/assets/c1356977-0ac0-4f48-8561-ce95c59caef9" />
 
 ***
 
