@@ -25,7 +25,7 @@ The rough expected distribution is given as follows:
 <img width="2978" height="740" alt="imc_population_dist" src="https://github.com/user-attachments/assets/afdd1cdf-ff1f-4c7a-97fd-9116b69155ae" />
 
 
-Now for all 5151 allocations, calculate Pr(PnL>k) (or EV), then find the best allocation that maximises Pr(PnL>k) (or EV).
+Now for all 5151 allocations, find the best allocation that maximises **Pr(PnL>k)**.
 
 
 <img width="2984" height="2357" alt="imc_main" src="https://github.com/user-attachments/assets/04035d12-6bcc-407f-889e-0b135f51e881" />
