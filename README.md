@@ -16,7 +16,7 @@ As I somehow got -29,661 PnL in round 1 (don't ask), I set myself to get at leas
 To model the expected distribution of other people's allocation on Speed:
 1. Assume the Speed distribution is uniform and observe the rough "optimal" allocation
 2. Get a rough idea of the expected distribution by observing (1) the "optimal" Speed allocation on uniform distribution, (2) the results of the many different polls made by the good people on the IMC Prosperity discord and (3) what people revealed about their intended allocation.
-3. Use a trimodal distribution to model the cluster at ~35% (the "optimal" solution and what most people chooses) and at 100% (people simply trolling) while also adding jittering to take account of uncertainty.
+3. Model the cluster at ~35% (the "optimal" solution and what most people chooses) and at 100% (people simply trolling) while also adding jittering to take account of uncertainty.
 
 
 The rough expected distribution is given as follows:
